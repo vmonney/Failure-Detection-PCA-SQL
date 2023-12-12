@@ -1,0 +1,2 @@
+# Detecting Machine Failure from IoT Sensors with a SQL Pipeline
+Replacing big industrial machines are expensive. Routine maintenance is so important, it can help prevent critical damage to the machine and extend its useful life. That's why learning to predict when a machine needs maintenance is highly valuable!
